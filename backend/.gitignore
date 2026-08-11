@@ -1,0 +1,15 @@
+# Bağımlılıklar
+node_modules/
+
+# Ortam Değişkenleri ve Gizli Bilgiler (Şifreler, API Key'ler)
+.env
+.env.local
+
+# Derleme Çıktıları
+dist/
+build/
+
+# IDE ve İşletim Sistemi Dosyaları
+.DS_Store
+.vscode/
+.idea/
